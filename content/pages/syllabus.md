@@ -15,7 +15,7 @@ There are no prerequisites for this course.
 
 ### Course Summary
 
-A commitment to free speech and toleration is among the defining features of modern liberal democracies. This commitment, however, is a relatively recent phenomenon, and continues to be contentious on both the political left and the political right. To better understand the values of free speech and toleration, we need to understand the historical context in which those values emerged, the philosophical arguments that were made on their behalf, and the arguments that were and continue to be made against them. Among arguments against free speech to be considered are those that appeal to the dangers of hate speech and of pornography, and to the value of pursuing of social justice. The subject will also examine free speech on contemporary college campuses.
+A commitment to free speech and toleration is among the defining features of modern liberal democracies. This commitment, however, is a relatively recent phenomenon, and continues to be contentious on both the political left and the political right. To better understand the values of free speech and toleration, we need to understand the historical context in which those values emerged, the philosophical arguments that were made on their behalf, and the arguments that were and continue to be made against them. Among arguments against free speech to be considered are those that appeal to the dangers of hate speech and of pornography, and to the value of pursuing social justice. The subject will also examine free speech on contemporary college campuses.
 
 Note: You are not expected to take any particular positions on the topics we will be discussing. You are expected, however, to argue cogently for your views.
 
