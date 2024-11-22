@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'Lecture Slide 1: Overview of the Class: Content; Principles of Civil Discourse'
+title: 'Lecture Slide 01: Overview of the Class: Content; Principles of Civil Discourse'
 uid: 156c7c92-dc0b-4b14-a64e-5b6e7e98a840
 video_files:
   archive_url: ''

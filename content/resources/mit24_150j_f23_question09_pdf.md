@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Readings
+- Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'In-Class Question 9: Waldron, The Harm in Hate Speech, Ch. 7'
+title: 'In-Class Question 09: Waldron, The Harm in Hate Speech, Ch. 7'
 uid: e09a32f9-641e-449f-a9a8-9d20dcf4b993
 video_files:
   archive_url: ''

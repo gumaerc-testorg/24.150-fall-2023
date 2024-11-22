@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Readings
+- Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'In-Class Question 5: Joshi, Why It''s OK to Speak Your Mind'
+title: 'In-Class Question 05: Joshi, Why It''s OK to Speak Your Mind'
 uid: 89bfd774-19f3-49cf-adc9-1201bcef3d71
 video_files:
   archive_url: ''

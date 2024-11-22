@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'Lecture Slide 6: The Duty to Speak Your Mind'
+title: 'Lecture Slide 06: The Duty to Speak Your Mind'
 uid: 65921be9-38b6-4d8b-a5c8-25b6c9aaa41b
 video_files:
   archive_url: ''

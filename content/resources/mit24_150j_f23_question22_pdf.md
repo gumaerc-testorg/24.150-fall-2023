@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Readings
+- Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: 'In-Class Question 22: Leiter, Why Tolerate Religion?, Chapters 1 and 3'

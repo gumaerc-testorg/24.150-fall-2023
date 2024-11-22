@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Readings
+- Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: "In-Class Question 1: Milton, Aeropagitica, and Rosenberg, \u201CStormy Daniels,\
+title: "In-Class Question 01: Milton, Aeropagitica, and Rosenberg, \u201CStormy Daniels,\
   \ Prior Restraints, etc.\u201D"
 uid: ba55410e-b4a9-40cb-9077-c1cbba2c9e24
 video_files:
