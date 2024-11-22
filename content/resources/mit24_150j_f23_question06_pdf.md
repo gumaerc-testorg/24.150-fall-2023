@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Readings
+- Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'In-Class Question 6: Cancel Culture'
+title: 'In-Class Question 06: Cancel Culture'
 uid: 6acbdf2e-c740-4cea-aebc-8e187d1b3e74
 video_files:
   archive_url: ''

@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: "Lecture Slide 7: Non-Government Censorship and \u201CCancel Culture\u201D"
+title: "Lecture Slide 07: Non-Government Censorship and \u201CCancel Culture\u201D"
 uid: aaae5bf0-c6b9-4217-9a6f-4fd6590f2fdd
 video_files:
   archive_url: ''

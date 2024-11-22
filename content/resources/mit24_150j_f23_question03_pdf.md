@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Readings
+- Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'In-Class Question 3: Citizens United and 303 Creative'
+title: 'In-Class Question 03: Citizens United and 303 Creative'
 uid: c46acac1-4243-4124-816f-88dcb322eb17
 video_files:
   archive_url: ''

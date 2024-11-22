@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'Lecture Slide 2: The Case Against Prior Restraint'
+title: 'Lecture Slide 02: The Case Against Prior Restraint'
 uid: 5fe7043a-1331-472f-a141-ec3b35d62d2f
 video_files:
   archive_url: ''

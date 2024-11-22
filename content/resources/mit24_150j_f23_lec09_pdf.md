@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'Lecture Slide 9: Against Free Expression'
+title: 'Lecture Slide 09: Against Free Expression'
 uid: 9355774e-5dfa-40db-9605-56a3927c88e3
 video_files:
   archive_url: ''

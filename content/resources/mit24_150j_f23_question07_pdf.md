@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Readings
+- Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'In-Class Question 7: Alexander, "General Justifying Theories of Freedom of
+title: 'In-Class Question 07: Alexander, "General Justifying Theories of Freedom of
   Expression"'
 uid: c49900f3-3749-4bef-9eb3-ef35a8508249
 video_files:

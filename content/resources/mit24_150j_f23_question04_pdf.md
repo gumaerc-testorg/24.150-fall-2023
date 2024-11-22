@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Readings
+- Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'In-Class Question 4: Mill, On Liberty'
+title: 'In-Class Question 04: Mill, On Liberty'
 uid: 8aa11ffc-694d-4a6f-b5ae-7d8408ec9c30
 video_files:
   archive_url: ''

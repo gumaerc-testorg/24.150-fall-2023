@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: "Lecture Slide 8: Wrap-Up Discussion of Non-Government Censorship and \u201C\
+title: "Lecture Slide 08: Wrap-Up Discussion of Non-Government Censorship and \u201C\
   Cancel Culture\u201D"
 uid: debdab21-5033-4f0a-a6e6-b76e7825b5cc
 video_files:
