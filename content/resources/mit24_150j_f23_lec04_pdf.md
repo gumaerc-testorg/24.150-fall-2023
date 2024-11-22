@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'Lecture Slide 4: More on the 1st Amendment'
+title: 'Lecture Slide 04: More on the 1st Amendment'
 uid: c0fc8997-fcb0-49b1-8788-85e9dee5b551
 video_files:
   archive_url: ''

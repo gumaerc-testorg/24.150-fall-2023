@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Readings
+- Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: "In-Class Question 16: Glod, Why It\u2019s OK to Make Bad Choices, Chapter\

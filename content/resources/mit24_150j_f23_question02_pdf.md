@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Readings
+- Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'In-Class Question 2: Holmes, Brandeis, and Harlan Supreme Court opinions'
+title: 'In-Class Question 02: Holmes, Brandeis, and Harlan Supreme Court opinions'
 uid: 62c7b9a6-2ecc-44e3-9a54-2bb6ed3c8c82
 video_files:
   archive_url: ''

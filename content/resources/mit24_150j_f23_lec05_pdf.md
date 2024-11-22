@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: "Lecture Slide 5:  J. S. Mill\u2019s Defense of Free Speech"
+title: "Lecture Slide 05:  J. S. Mill\u2019s Defense of Free Speech"
 uid: 08c1c279-750d-4116-b052-711aa4e02ef5
 video_files:
   archive_url: ''

@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'Lecture Slide 3: The 1st Amendment'
+title: 'Lecture Slide 03: The 1st Amendment'
 uid: 7a0ae8df-bcb2-4f80-8003-058fdaca2eda
 video_files:
   archive_url: ''
