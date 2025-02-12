@@ -7,22 +7,26 @@ leftnav:
   name: Calendar
   pageRef: /pages/calendar
   weight: 20
+- identifier: 2bbb7ff0-fd8f-4488-a79f-28d3a28113c1
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
 - identifier: a83fe0c5-0a74-40c9-bde1-4286487cf6fc
   name: Readings
   pageRef: /pages/readings
-  weight: 30
+  weight: 40
 - identifier: 7ed12878-bd83-45eb-924d-16e22b006d3e
   name: In-Class Questions
   pageRef: /lists/in-class-questions
-  weight: 40
+  weight: 50
 - identifier: 24bbac25-c6d4-4ccf-930a-23bf6418526e
   name: Lecture Slides
   pageRef: /lists/lecture-slides
-  weight: 50
+  weight: 60
 - identifier: 71bd825a-ac7b-407c-a1cc-f92e34a9b270
   name: Assignments
   pageRef: /pages/assignments
-  weight: 60
+  weight: 70
 - identifier: 48c17ba6-d8fb-4330-8ea3-a7a0bcd9b3c2
   name: First Essay
   pageRef: /pages/first-essay
