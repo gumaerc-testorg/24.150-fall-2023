@@ -17,7 +17,7 @@ Is this a good argument? Why or why not? If it has flaws, can they be repaired? 
 
 ## Prompt 2
 
-In “Words that Silence?” Caroline West writes:
+In “Words That Silence?” Caroline West writes:
 
 - Racist hate speech could in principle prevent comprehension in a yet more extreme way: by producing in its audience beliefs that prevent them from recognizing that the speaker has any communicative intentions *at all*. While pornography may change audience perceptions of the meaning of women’s utterances in sexual contexts, racist hate speech could, in the extreme case, *remove* it altogether.
 
