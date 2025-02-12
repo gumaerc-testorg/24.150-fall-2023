@@ -34,7 +34,7 @@ Participation in class discussions
 {{< tdclose >}}{{< tdopen >}}
 10%
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-First essay (1500 words}
+First essay (1500 words)
 {{< tdclose >}}{{< tdopen >}}
 15%
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
