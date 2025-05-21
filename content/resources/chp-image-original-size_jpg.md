@@ -2,19 +2,18 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/liberalism-toleration-and-freedom-of-speech/mit24_150j_f23_lec20.pdf
-file_size: 862924
-file_type: application/pdf
+file: courses/liberalism-toleration-and-freedom-of-speech/chp-image-original-size.jpg
+file_size: 216221
+file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types:
-- Lecture Notes
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Document
-title: 'Lecture Slide 20: Anti-Paternalism: Autonomy; Unintended Consequences'
-uid: ccc8721c-6190-44d4-8120-4a31b1d0e7ae
+resourcetype: Image
+title: CHP image original size.jpg
+uid: c103a752-9e3b-4ea3-8391-dc236e0907b5
 video_files:
   archive_url: ''
   video_captions_file: ''
