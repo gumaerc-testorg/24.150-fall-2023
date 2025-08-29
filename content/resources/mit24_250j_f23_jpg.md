@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/liberalism-toleration-and-freedom-of-speech/mit24_250j_f23.jpg
+file: /ol-ocw-studio-app/courses/24-150j-liberalism-toleration-and-freedom-of-speech-fall-2023/mit24_250j_f23.jpg
 file_size: 173702
 file_type: image/jpeg
 image_metadata:
