@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/liberalism-toleration-and-freedom-of-speech/chp-image-original-size.jpg
+file: /ol-ocw-studio-app/courses/24-150j-liberalism-toleration-and-freedom-of-speech-fall-2023/chp-image-original-size.jpg
 file_size: 216221
 file_type: image/jpeg
 image_metadata:
