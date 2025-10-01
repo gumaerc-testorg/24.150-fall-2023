@@ -15,7 +15,7 @@ Below, Prof. Alex Byrne and Prof. Brad Skow describe various aspects of how they
 
 **Alex Byrne:** Yes, that was one great thing about the class, its dynamic aspect. Not a week went by without something relevant popping up. Unfortunately that’s lost in translation to OCW.
 
-**Brad Skow:** If there was a change, it was that Alex and I think the class is even more important than it might have been before. (As it was created partly in the aftermath of the [Dorian Abbot](https://en.wikipedia.org/wiki/Dorian_Abbot) affair, we thought it was quite important before!)
+**Brad Skow:** If there was a change, it was that Alex and I think the class is even more important than it might have been before. (As it was created partly in the aftermath of the {{% resource_link "fc197a5a-1eb8-4501-bedc-130354709b74" "Dorian Abbot" %}} affair, we thought it was quite important before!)
 
 **OCW:** In their work for this course, students are forbidden from using ChatGPT or any other generative artificial intelligence (AI) tools at any point. Can you tell us about the rationale for that policy, how well it has worked, and what you think the future holds for student use of generative AI in classes such as yours?
 
@@ -45,9 +45,9 @@ None
 
 ### Requirements Satisfied
 
-- [General Institute Requirement (GIR): Humanities Requirement](https://registrar.mit.edu/registration-academics/academic-requirements/hass-requirement)
-- [Communication Intensive in the Major](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-m-subjects)
-- 24.150J can be applied toward a [Bachelor of Science in Philosophy](https://philosophy.mit.edu/undergraduate/), but is not required.
+- {{% resource_link "48dfc091-0e3a-4a5e-a1d4-97c1409e65fe" "General Institute Requirement (GIR): Humanities Requirement" %}}
+- {{% resource_link "0b866be0-d94e-4ff3-be74-0a077316c906" "Communication Intensive in the Major" %}}
+- 24.150J can be applied toward a {{% resource_link "8eea96d1-503c-4216-9bdf-26f4090f2ff4" "Bachelor of Science in Philosophy" %}}, but is not required.
 
 ### Offered
 
@@ -72,7 +72,7 @@ Fewer than ten students
 
 ### Student Background
 
-All the students were second- third- and fourth-year undergraduates, mostly science or engineering majors. Two of the students were cross-enrolled from other institutions (one from Tufts and one from Wellesley). None of the students were from MIT's [School of Humanities, Arts, and Social Sciences (SHASS)](https://shass.mit.edu/).
+All the students were second- third- and fourth-year undergraduates, mostly science or engineering majors. Two of the students were cross-enrolled from other institutions (one from Tufts and one from Wellesley). None of the students were from MIT's {{% resource_link "b5cac007-db23-4c58-a108-127fbbaae93d" "School of Humanities, Arts, and Social Sciences (SHASS)" %}}.
 
 ## How Student Time Was Spent
 
